@@ -21,5 +21,6 @@
 * [第8讲 Python项目实战](ProjectNotes.md)
 
 * [附录](Appendix/README.md)
-  * [附录1](Appendix/VirtualEnvironmentSetup.md)
-  * 
+  * [附录1 虚拟环境](Appendix/VirtualEnvironmentSetup.md)
+  * [附录2 GitBook 发布电子书](Appendix/GitBookSetting.md)
+  * [附录3 Git 分支]()
